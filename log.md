@@ -19,12 +19,12 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: June 27, Monday
+### Day 1: July 18, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I've gone through the first exercise of Full Stack Open
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** This is just the beginning of learning how to use react and developing an understanding of components and props. I found it difficult but I am just getting started so we will see how it goes :)
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Full Stack Open Part 1](https://fullstackopen.com/en/part1/introduction_to_react)
+2. [My Full Stack Open Repo](https://github.com/jnatividad-design/FSO/tree/main/part1)
