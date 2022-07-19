@@ -9,3 +9,13 @@
 **Link(s) to work**
 1. [Full Stack Open Part 1](https://fullstackopen.com/en/part1/introduction_to_react)
 2. [My Full Stack Open Repo](https://github.com/jnatividad-design/FSO/tree/main/part1)
+
+### Day 2: July 19, Tuesday
+
+**Today's Progress**: I've gone through the exercises 1.3-1.5 of Full Stack Open
+
+**Thoughts** I am still having trouble learning "this" in javascript but I am starting to understand how to use JS objects and working my way to getting comfortable with JS arrays. Only time will tell how far I progress!
+
+**Link(s) to work**
+1. [Full Stack Open Part 1](https://fullstackopen.com/en/part1/java_script)
+2. [My Full Stack Open Repo](https://github.com/jnatividad-design/FSO/tree/main/part1)
