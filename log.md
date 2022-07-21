@@ -19,3 +19,13 @@
 **Link(s) to work**
 1. [Full Stack Open Part 1](https://fullstackopen.com/en/part1/java_script)
 2. [My Full Stack Open Repo](https://github.com/jnatividad-design/FSO/tree/main/part1)
+
+### Day 3: July 20, Wednesday
+
+**Today's Progress**: I've finished all of the exercises for part 1 of FSO
+
+**Thoughts** I am starting to get comfortable with making components and implementing them within my code and displaying them real time. I still need to practice on my array methods but I'm glad to have finished the exercises. 
+
+**Link(s) to work**
+1. [Full Stack Open Part 1](https://fullstackopen.com/en/part1/a_more_complex_state_debugging_react_apps)
+2. [My Full Stack Open Repo](https://github.com/jnatividad-design/FSO/tree/main/part1)
